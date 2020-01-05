@@ -1,5 +1,5 @@
 fetch(
-  "https://gorest.co.in/public-api/users?access-token=MM-P2ZCB1DZEsPHJ6tEleQpSQqnkGLKEKYFL"
+  "https://gorest.co.in/public-api/users?access-token=id1Y9DMgGCVB72reFnsn57CTPUIXCBVdz6a_"
 )
   .then(response => response.json())
   .then(data => {
